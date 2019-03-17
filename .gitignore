@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+last1/Debug
+last1/last1/Debug
+
+MathLibrary/Debug
+MathLibrary/MathLibrary/Debug
+
+MathClient/Debug
+MathClient/MathClient/Debug
