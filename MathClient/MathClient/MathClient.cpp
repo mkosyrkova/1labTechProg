@@ -46,7 +46,7 @@ bool CheckBounds(int n)
 	}
 	return ok;
 }
-string ReadInt(std::istream &in)
+string ReadStr(std::istream &in)
 {
 	std::cout << INPUT_MESSAGE;
 	string ans;
@@ -83,7 +83,7 @@ int main()
 	bool cont = true;
 	while (cont)
 	{
-		string inGo = ReadInt(std::cin);
+		string inGo = ReadStr(std::cin);
 
 		std::cout << OUTPUT_MESSAGE << CountFromStr(inGo) << std::endl;
 		cont = NeedContinue(std::cin);
