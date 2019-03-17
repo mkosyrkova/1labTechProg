@@ -1,11 +1,11 @@
 # last1/.vs/
 last1/Debug/
-# last1/last1/Debug/
+#last1/last1/Debug/
 
 # MathLibrary/.vs/
 MathLibrary/Debug/
 # MathLibrary/x64/
-# MathLibrary/MathLibrary/Debug/
+#MathLibrary/MathLibrary/Debug/
 # MathLibrary/MathLibrary/x64/
 
 MathClient/Debug/
