@@ -1,41 +1,13 @@
-# Prerequisites
-*.d
+last1/.vs/
+last1/Debug/
+last1/last1/Debug/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+MathLibrary/.vs/
+MathLibrary/Debug/
+MathLibrary/x64/
+MathLibrary/MathLibrary/Debug/
+MathLibrary/MathLibrary/x64/
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-last1/Debug
-last1/last1/Debug
-
-MathLibrary/Debug
-MathLibrary/MathLibrary/Debug
-
-MathClient/Debug
-MathClient/MathClient/Debug
+MathClient/Debug/
+MathClient/x64/
+MathClient/MathClient/Debug/
